@@ -44,7 +44,7 @@ if (element) {
                 }
 
         } else {
-            statusMessage.textContent = 'Odlično! Čestitamo, tvoj odgovor je pravilen. Nadaljuj s svojim odličnim delom in uživaj v izzivih, ki te še čakaj.';
+            statusMessage.textContent = 'Odlično! Čestitamo, tvoj odgovor je pravilen. Nadaljuj s svojim odličnim delom in uživaj v izzivih, ki te še čakajo.';
             
         }
     } else {
